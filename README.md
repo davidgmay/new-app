@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This is a project using a shape Canvas library that can be utilized to create floor plans with the modification and implementation of round and square shapes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
